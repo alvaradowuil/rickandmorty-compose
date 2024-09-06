@@ -25,7 +25,7 @@ Esta es una aplicación Android que utiliza Jetpack Compose para mostrar una lis
 
 1. Clona este repositorio:
     ```bash
-    git clone <URL_DEL_REPOSITORIO>
+    git clone git@github.com:alvaradowuil/rickandmorty-compose.git
     ```
 
 2. Abre el proyecto en Android Studio.
