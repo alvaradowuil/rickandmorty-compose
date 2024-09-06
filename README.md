@@ -1,5 +1,8 @@
 # Aplicación Android con Jetpack Compose
 
+![WhatsApp Image 2024-09-06 at 10 19 55 AM](https://github.com/user-attachments/assets/60b9f100-c338-4080-939c-a55677b52802)
+
+
 Esta es una aplicación Android que utiliza Jetpack Compose para mostrar una lista de personajes obtenida del endpoint [Rick and Morty API](https://rickandmortyapi.com/api/character). La aplicación está construida utilizando las siguientes tecnologías y patrones:
 
 - **Jetpack Compose**: para la construcción de la interfaz de usuario.
